@@ -1,0 +1,5 @@
+#pliki z roszerzeniem .class
+*.class
+
+#pliki IDE
+.idea/
